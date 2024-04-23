@@ -58,7 +58,7 @@ class DataManager:
         perimeter = side1 + side2 + side3
         print(f"Perimeter of triangle is: {perimeter}")
 
-# Example of usage:
+
 items = ['apple', 'banana', 'orange', 'grape']
 subfields = ["Machine Learning", "Neural Networks", "Vision", "Robotics", "Speech Processing", "Natural Language Processing"]
 
